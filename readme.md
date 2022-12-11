@@ -1,6 +1,6 @@
 # slidev-clicks
 
-`slidev-clicks` adds some utility click functions for [Slidev](https://sli.dev) that makes it easier to process and handle click events.
+`slidev-clicks` adds some utility functions for handling clicks in [Slidev](https://sli.dev) that makes it easier to process and handle click events.
 
 ## Usage
 

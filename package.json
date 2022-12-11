@@ -2,6 +2,9 @@
 	"name": "slidev-clicks",
 	"version": "0.0.0",
 	"type": "module",
+	"lionp": {
+		"tests": false
+	},
 	"exports": {
 		".": "./src/index.ts",
 		"./vite-plugin": "./src/vite-plugin.ts",

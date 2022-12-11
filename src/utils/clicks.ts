@@ -12,7 +12,7 @@ import type { ComputedRef, DeepReadonly } from 'vue'
 import { computed, getCurrentInstance, inject, watch } from 'vue'
 
 import type { Slidev } from '~/types/slidev.js'
-import { type SlidevClickStep } from '~/types/step.js'
+import type { SlidevClickStep } from '~/types/step.js'
 import { whenMounted } from '~/utils/lifecycle.js'
 import { StepCancelledError } from '~/utils/step.js'
 

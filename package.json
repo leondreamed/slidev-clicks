@@ -1,6 +1,6 @@
 {
 	"name": "slidev-clicks",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"type": "module",
 	"lionp": {
 		"tests": false

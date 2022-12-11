@@ -1,6 +1,6 @@
 # slidev-clicks
 
-`slidev-clicks` adds some utility click functions for [Sli.dev](https://sli.dev) that makes it easier to process and handle click events.
+`slidev-clicks` adds some utility click functions for [Slidev](https://sli.dev) that makes it easier to process and handle click events.
 
 ## Usage
 
@@ -10,7 +10,7 @@ First, install `slidev-clicks` using your favorite package manager:
 npm install slidev-clicks
 ```
 
-Then, create a `vite.config.js` file in the root of your Sli.dev project and add the Vite plugin for `slidev-clicks` into the "plugins" array:
+Then, create a `vite.config.js` file in the root of your Slidev project and add the Vite plugin for `slidev-clicks` into the "plugins" array:
 
 ```typescript
 import { defineConfig } from 'vite'

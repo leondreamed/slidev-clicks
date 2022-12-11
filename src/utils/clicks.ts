@@ -5,7 +5,7 @@ import {
 	injectionRoute,
 	injectionSlidevContext,
 	// @ts-expect-error: Slidev doesn't export this type
-} from '@slidev/client/constants'
+} from '@slidev/client/constants?ts-ignore'
 import { nanoid } from 'nanoid'
 import invariant from 'tiny-invariant'
 import type { ComputedRef, DeepReadonly } from 'vue'
